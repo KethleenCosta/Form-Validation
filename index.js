@@ -1,3 +1,5 @@
+// Esse projeto foi feito seguindo o tutorial "How To Make Form Validation Using JavaScript" de GreatStack no YouTube.
+
 const nameError = document.getElementById("name-error");
 const phoneError = document.getElementById("phone-error");
 const emailError = document.getElementById("email-error");
